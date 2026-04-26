@@ -1,7 +1,3 @@
-Here’s a complete, portfolio-ready version of your resume. It’s structured for a personal website, GitHub Pages, or a Notion/Markdown portfolio. I’ve transformed resume bullets into engaging project case studies, grouped your tech stack for readability, and added portfolio-specific elements like clear CTAs, role highlights, and deployment-ready formatting.
-
----
-
 # 🌐 Ahmed Talat Mohamed
 ### Flutter Developer | Clean Architecture & State Management Specialist
 📍 Beni Suef, Egypt | 📧 ahmed99talat@gmail.com | 📱 +20 114 248 8571  
